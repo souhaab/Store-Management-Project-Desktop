@@ -5,9 +5,6 @@
 ![menu](https://user-images.githubusercontent.com/80551933/170349924-58ac740d-b7db-431a-863b-c47cea519970.png)
 ![clientForm](https://user-images.githubusercontent.com/80551933/170349960-4e5d2cd1-fceb-43ec-9946-861f01534006.png)
 ![sellersForm](https://user-images.githubusercontent.com/80551933/170349974-bf54a646-484e-4ef2-b4ee-cfca7257d530.png)
-![cmdForm](https://user-images.githubusercontent.com/80551933/170349985-f992616b-4e74-43a3-8525-18cf903b059c.png)
-![ProduitForm](https://user-im
-![detcmdForm](https://user-images.githubusercontent.com/80551933/170350007-f388b57f-b2c9-4cc0-ad4f-b99e340373bd.png)
-ages.githubusercontent.com/80551933/170349989-3b34362a-940f-46dd-b185-e303724503ea.png)
-3ea.png)
-
+![ProduitForm](https://user-images.githubusercontent.com/80551933/170350158-28fa441c-2191-43f9-96b7-70ccbb3a9d94.png)
+![cmdForm](https://user-images.githubusercontent.com/80551933/170350206-6c16e678-a9a5-41db-ac9b-b7782e68124a.png)
+![detcmdForm](https://user-images.githubusercontent.com/80551933/170350217-8923b84a-03f6-4986-8276-bf6b30fdb9e4.png)
