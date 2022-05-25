@@ -1,0 +1,60 @@
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe.config
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.pdb
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.clientForm.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.Properties.Resources.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.exe
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.pdb
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.FournisseurForm.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ProduitForm.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.commandes.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ConsultationCom.resources
+C:\Users\HP\source\repos\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.MenuPrincipale.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe.config
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.pdb
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.clientForm.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.commandes.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ConsultationCom.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.FournisseurForm.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.MenuPrincipale.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ProduitForm.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.Properties.Resources.resources
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.exe
+C:\Users\HP\Downloads\projet gestion des commandes\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.pdb
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe.config
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.pdb
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.clientForm.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.commandes.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ConsultationCom.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.FournisseurForm.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.MenuPrincipale.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ProduitForm.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.Properties.Resources.resources
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.exe
+C:\Users\HP\Desktop\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.pdb
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe.config
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.exe
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\bin\Debug\gestion_des_commandes.pdb
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.clientForm.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.commandes.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ConsultationCom.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.FournisseurForm.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.MenuPrincipale.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.ProduitForm.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.Properties.Resources.resources
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.exe
+C:\Users\dell\Downloads\gestion de commande_final\projet gestion des commandes\gestion_des_commandes\gestion_des_commandes\obj\Debug\gestion_des_commandes.pdb
